@@ -10,21 +10,21 @@ Answer. It is something between working directory and repository, and exists tem
 
 Question 3: How can you use the staging area to make sure you have one commit per logical change?
 
-Answer. 
+Answer. You can use the code "git diff" to compare the filles between the working repository and the staging area, and use the code "git diff --staged" to compare the files between the staging area and git repository to make sure if you have any changes.
 
 
 
 
 Question 4: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-Answer.
+Answer. When you want to try new experiments, and you want to keep your current branch so far. It will record new changes while keep the old one, and it allows you to use what you had before without go over every node again.
 
 
 
 
 Question 5: How do the diagrams help you visualize the branch structure?
 
-Answer.
+Answer. It helps to show the number of branches, and helps to structure the relationship between the branches, including the nodes which are parents of some branches (where the branches meet), etc.
 
 
 
