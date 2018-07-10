@@ -10,7 +10,7 @@ Answer. It is something between working directory and repository, and exists tem
 
 Question 3: How can you use the staging area to make sure you have one commit per logical change?
 
-Answer.
+Answer. 
 
 
 
